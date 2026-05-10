@@ -8,7 +8,10 @@
 
 6666
 7777
+<<<<<<< HEAD
 
+=======
+>>>>>>> eight_git
 function simulateApiCall(shouldSucceed) {
   // A Promise takes a function with two arguments: resolve and reject
   return new Promise((resolve, reject) => {
