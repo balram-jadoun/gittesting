@@ -8,6 +8,7 @@
 
 6666
 7777
+
 function simulateApiCall(shouldSucceed) {
   // A Promise takes a function with two arguments: resolve and reject
   return new Promise((resolve, reject) => {
