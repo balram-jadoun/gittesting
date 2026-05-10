@@ -1,4 +1,6 @@
-// First commit
+// Second commit git 2
+
+// Third commit git 3
 
 function simulateApiCall(shouldSucceed) {
   // A Promise takes a function with two arguments: resolve and reject
