@@ -6,8 +6,6 @@
 
 // Fifth commit git 5
 
-6666
-7777
 <<<<<<< HEAD
 
 =======
